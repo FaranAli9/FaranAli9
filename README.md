@@ -25,4 +25,11 @@ Core stack: Laravel, NestJS, React, Vue.js, TypeScript, Redis, SQL, CI/CD, infra
 
 ## WakaTime (last 7 days)
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   3 mins          ███████████░░░░░░░░░░░░░░   43.93 %
+Markdown     2 mins          ████████▓░░░░░░░░░░░░░░░░   34.91 %
+PHP          1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.16 %
+```
+
 <!--END_SECTION:waka-->
