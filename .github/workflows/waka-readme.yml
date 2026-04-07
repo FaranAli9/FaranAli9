@@ -11,7 +11,8 @@ jobs:
       - uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: main
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPOSITORY: FaranAli9/FaranAli9
+          TARGET_BRANCH: main
           SECTION_NAME: waka
           COMMIT_MESSAGE: 'chore: update WakaTime stats'
